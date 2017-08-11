@@ -1,0 +1,31 @@
+{
+  "vehicules": [
+    {
+      "id": 1,
+      "model": "Tucson",
+      "vendor": "Hyundai",
+      "price": 67000
+    }
+  ],
+  "posts": [
+    {
+      "title": "Aprendendo NodeJS",
+      "author": "Silva, Roberto",
+      "id": 2
+    },
+    {
+      "title": "Trabalhando com Javascript",
+      "author": "Gerolino Silva",
+      "id": 3
+    },
+    {
+      "title": "Cangaceiro Javascript",
+      "author": "Flavio Almeida",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "Leonardo Souza"
+  }
+}
